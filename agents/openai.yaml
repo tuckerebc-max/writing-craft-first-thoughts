@@ -1,0 +1,4 @@
+interface:
+  display_name: "Writing Craft: First Thoughts"
+  short_description: "Generate raw, specific, energetic first-draft material"
+  default_prompt: "Use $writing-craft-first-thoughts to generate raw, divergent material before revision."
